@@ -1,7 +1,7 @@
 # PROYECTO GUIA DE MOVIES
  gitINTEGRANTES: 
  NATALIA: 48 años, Remedios de Escalada, Lanus
- JAIRO:
+ JAIRO: 33 años, Hurlingham
  LAUTARO:
  JOHANA:
  

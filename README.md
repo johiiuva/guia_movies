@@ -1,7 +1,7 @@
 # PROYECTO GUIA DE MOVIES
  INTEGRANTES: 
- NATALIA: 48 años, Remedios de Escalada, Lanus
- JAIRO: 33 años, Hurlingham
- LAUTARO: 27 años, Ituzaingo
- JOHANA: Edad: 29 -  Ciudad : Trenque Lauquen 
+ NATALIA: 48 años, Remedios de Escalada, Lanús - Prov. de Buenos Aires
+ JAIRO: 33 años, Hurlingham - Prov. de Buenos Aires
+ LAUTARO: 27 años, Ituzaingo - Prov. de Buenos Aires
+ JOHANA: 29 años, Trenque Lauquen -Prov. de Buenos Aires
  
